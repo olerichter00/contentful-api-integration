@@ -1,6 +1,6 @@
 <h2><%= I18n.t("recipes.all_recipes") %></h2>
 
 <div class="recipes">
-  <%= render partial: "recipe_preview", collection: @recipes, as: :recipe %>
+  <%= render partial: "recipe_preview", collection: @recipes, as: :recipe, cached: true %>
 </div>
 

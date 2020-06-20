@@ -1,11 +1,9 @@
-<% cache recipe do %>
-  <div class="recipe-preview">
-    <%= link_to recipe_path(recipe.id) do %>
-      <%= image_tag recipe.preview_photo_src, size: "300x200", alt: recipe.title %>
+<div class="recipe-preview">
+  <%= link_to recipe_path(recipe.id) do %>
+    <%= image_tag recipe.preview_photo_src, size: "300x200", alt: recipe.title %>
 
-      <div class="recipe-preview__content">
-        <%= recipe.title %>
-      </div>
-    <% end %>
-  </div>
-<% end %>
+    <div class="recipe-preview__content">
+      <%= recipe.title %>
+    </div>
+  <% end %>
+</div>
