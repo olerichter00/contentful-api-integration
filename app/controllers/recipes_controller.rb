@@ -32,4 +32,8 @@ class RecipesController < ApplicationController
   def set_recipe_meta_title
     set_meta_tags(title: @recipe.title)
   end
+
+  def not_found
+    render file: Rails.root.join("public/404"), status: :not_found, layout: false
+  end
 end
