@@ -1,0 +1,296 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/spec/factories/contentful_base_factory.rb": {
+        "lines": [
+          null,
+          1,
+          1,
+          1,
+          12,
+          null,
+          12,
+          12,
+          null,
+          null,
+          null,
+          1,
+          24,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/spec/factories/recipe_factory.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/spec/factories/chef_factory.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/spec/factories/tag_factory.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/app/decorators/recipe_decorator.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          9,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/app/models/recipe.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/spec/features/recipes_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          4,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          2,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          2,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/spec/helpers/markdown_helper_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/spec/models/chef_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/app/models/chef.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/spec/models/recipe_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          5,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/spec/models/tag_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/app/models/tag.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/app/controllers/recipes_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          2,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/ole/projects/coding-challenges/marley-spoon/marley-spoon-recipes/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1592663064
+  }
+}

@@ -1,0 +1,9 @@
+en:
+  title: Marley Spoon Recipes
+  description: Delicious Marley Spoon Recipes
+  keywords: Marley Spoon, Recipes, Food, Delicious
+  not_found: Not Found
+  recipes:
+    all_recipes: All Recipes
+    chef: Chef
+    back_to_overview: Back to overview

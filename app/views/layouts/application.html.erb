@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="<%= locale %>">
+  <head>
+    <%= display_meta_tags site: I18n.t("title"), 
+                          description: I18n.t("description"), 
+                          keywords: I18n.t("keywords") %>
+
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  </head>
+
+  <body>
+    <%= render "layouts/header"%>
+
+    <main class="content-container">
+      <%= yield %>
+    </main>
+  </body>
+</html>

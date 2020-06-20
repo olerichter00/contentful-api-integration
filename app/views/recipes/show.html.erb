@@ -1,0 +1,23 @@
+<% cache @recipe do %>
+  <article class="recipe">
+    <h2><%= @recipe.title %></h2>
+
+    <p>
+      <%= link_to I18n.t("recipes.back_to_overview"), recipes_path %>
+    </p>
+
+    <%= image_tag @recipe.photo_src, class: "recipe__image", alt: @recipe.title %>
+    
+    <p>
+      <%= render partial: "tag", collection: @recipe.tags %>
+    </p>
+
+    <p>
+      <% if @recipe.has_chef? %>
+        <b><%= I18n.t("recipes.chef") %>: <%= @recipe.chef_name %></b>
+      <% end %>
+    </p>
+
+    <%= @recipe.decription_html %>
+  </article>
+<% end %>
