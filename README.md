@@ -8,6 +8,7 @@ This is an example Contentful API integration with Ruby on Rails using the [Cont
 - 100% test coverage
 - 100% lighthouse score (Accessibility and SEO)
 - Page title per recipe
+- Caching with Redis in production
 
 ## Run locally
 

@@ -21,6 +21,7 @@ gem "contentful_model", "~> 1.3.0"
 gem "redcarpet", "~> 3.5.0"
 gem "draper", "~> 4.0.1"
 gem "meta-tags", "~> 2.13.0"
+gem "redis-rails", "~> 5.0.2"
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
