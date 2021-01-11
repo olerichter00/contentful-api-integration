@@ -18,7 +18,7 @@ gem "jbuilder", "~> 2.7"
 gem "bootsnap", ">= 1.4.2", require: false
 
 gem "contentful_model", "~> 1.3.0"
-gem "redcarpet", "~> 3.5.0"
+gem "redcarpet", "~> 3.5.1"
 gem "draper", "~> 4.0.1"
 gem "meta-tags", "~> 2.13.0"
 gem "redis-rails", "~> 5.0.2"
